@@ -1,4 +1,4 @@
-# 🍬 Candy Sales Analytics Dashboard – Power BI
+# 🍬 Sales Analytics Dashboard for Candy/Sweets Data – Power BI
 
 ![Dashboard PNG](resources/dashboard_overview.png) 
 
