@@ -44,7 +44,7 @@ This project showcases an interactive **Power BI dashboard** built to analyze sw
 
 ---
 
-## 🛠️ Data Model
+## ⭐ Data Model
 
 ![Data Model PNG](resources/data_model.png) 
 
