@@ -44,6 +44,12 @@ This project showcases an interactive **Power BI dashboard** built to analyze sw
 
 ---
 
+## 🛠️ Data Model
+
+![Data Model PNG](resources/data_model.png) 
+
+---
+
 ## 📷 Demo
 
 ![Dashboard GIF](resources/dashboard_overview.gif) 
