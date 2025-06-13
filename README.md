@@ -1,5 +1,7 @@
 # 🍬 Candy Sales Analytics Dashboard – Power BI
 
+![Dashboard PNG](resources/dashboard_overview.png) 
+
 This project showcases an interactive **Power BI dashboard** built to analyze sweet/candy product sales. It presents business-critical insights such as total revenue, profit margins, product trends, and country-level performance breakdowns.
 
 ## 📊 Key Features
